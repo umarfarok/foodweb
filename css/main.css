@@ -1,0 +1,144 @@
+/* css for foodwed */
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.link{
+    margin-bottom: 5px;
+}
+.topNav{
+    background-color:rgb(118,118,247);
+    width: 100%;
+    height: 110px;
+    border: 1px solid;
+    margin-top: 0px;
+    
+    
+}
+
+.topNav li{
+    display: inline;
+    justify-content: space-between;
+    margin-left: 20px;
+    
+    
+
+
+}
+
+.topNav li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+nav{
+    background-color: rgb(118, 118, 247);
+}
+
+.cr{
+    background-color: rgb(193, 226, 240);
+
+
+      
+}
+
+.do{
+    text-align: center
+}
+
+.container h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
+.food{
+    margin-top: -16px;
+}
+/* .container img{
+    margin-left: 25px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+} */
+
+.glo{
+    background-color: rgb(88, 88, 194);
+    margin-left: 30px;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    width: 400px;
+    float: left;
+}
+
+
+footer{
+    background-color: #80808099;
+    height: 100px;
+    margin-top: 30px;
+}
+
+.mtn ul li a{
+    text-decoration: none;
+    color: blue;
+    margin-top: 30px;
+
+}
+
+
+
+.mtn li{
+    display: inline;
+    margin-left: 100px;
+    text-align: center;
+    
+
+}
+
+.son{
+    text-decoration: underline;
+}
+
+.sun{
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.soon{
+    font-size: 23px;
+}
+
+.soo{
+    font-size: 16px;
+}
+
+footer{
+    float: left;
+    width: 100%;
+}
+
+.son{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+    
+}
+
+.soup{
+    font-weight: bold;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+
+.ingri{
+    font-weight: bold;
+    margin-left: 5px;
+    margin-top: 2px;
+}
